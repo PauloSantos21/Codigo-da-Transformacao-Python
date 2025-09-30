@@ -1,2 +1,2 @@
 # Codigo-da-Transformacao-Python
-primeiro repositória usado deploy 
+primeiro repositória usado para deploy 
