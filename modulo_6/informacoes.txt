@@ -1,0 +1,2 @@
+Olá! Estas são informações gravadas no arquivo.
+Linha 2: Aprendendo manipulação de arquivos!

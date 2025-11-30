@@ -1,0 +1,17 @@
+{
+    "cliente_001": {
+        "nome": "Maria Silva",
+        "cidade": "S\u00e3o Paulo",
+        "saldo": 1250.75
+    },
+    "cliente_002": {
+        "nome": "Jo\u00e3o Santos",
+        "cidade": "Rio de Janeiro",
+        "saldo": 500.0
+    },
+    "cliente_003": {
+        "nome": "Ana Souza",
+        "cidade": "Belo Horizonte",
+        "saldo": 3400.9
+    }
+}
